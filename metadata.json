@@ -1,0 +1,11 @@
+{
+  "name": "PetSense AI",
+  "description": "Intelligent domestic animal care, acoustic sound analysis, veterinary appointment scheduling, and environmental welfare platform.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
